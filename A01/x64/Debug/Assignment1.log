@@ -1,0 +1,18 @@
+﻿  triangles.cpp
+C:\Users\ainoa\OneDrive - UPV\UPV\3\Polimi\Computer graphics\Assignments\A01\A01\triangles.cpp(18,52): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\ainoa\OneDrive - UPV\UPV\3\Polimi\Computer graphics\Assignments\A01\A01\triangles.cpp(18,52): error C2440: 'inicializando': no se puede realizar la conversión de 'initializer list' a 'int'
+C:\Users\ainoa\OneDrive - UPV\UPV\3\Polimi\Computer graphics\Assignments\A01\A01\triangles.cpp(18,9): message : El inicializador contiene demasiados elementos
+C:\Users\ainoa\OneDrive - UPV\UPV\3\Polimi\Computer graphics\Assignments\A01\A01\triangles.cpp(19,33): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\ainoa\OneDrive - UPV\UPV\3\Polimi\Computer graphics\Assignments\A01\A01\triangles.cpp(19,1): error C2374: 'Triangle': nueva definición; inicialización múltiple
+C:\Users\ainoa\OneDrive - UPV\UPV\3\Polimi\Computer graphics\Assignments\A01\A01\triangles.cpp(18): message : vea la declaración de 'Triangle'
+C:\Users\ainoa\OneDrive - UPV\UPV\3\Polimi\Computer graphics\Assignments\A01\A01\triangles.cpp(23,1): error C2059: error de sintaxis: 'for'
+C:\Users\ainoa\OneDrive - UPV\UPV\3\Polimi\Computer graphics\Assignments\A01\A01\triangles.cpp(23,1): error C2143: error de sintaxis: falta ')' delante de ';'
+C:\Users\ainoa\OneDrive - UPV\UPV\3\Polimi\Computer graphics\Assignments\A01\A01\triangles.cpp(23,18): error C2143: error de sintaxis: falta ';' delante de '<'
+C:\Users\ainoa\OneDrive - UPV\UPV\3\Polimi\Computer graphics\Assignments\A01\A01\triangles.cpp(23,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\ainoa\OneDrive - UPV\UPV\3\Polimi\Computer graphics\Assignments\A01\A01\triangles.cpp(23,25): error C2143: error de sintaxis: falta ';' delante de '++'
+C:\Users\ainoa\OneDrive - UPV\UPV\3\Polimi\Computer graphics\Assignments\A01\A01\triangles.cpp(23,25): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\ainoa\OneDrive - UPV\UPV\3\Polimi\Computer graphics\Assignments\A01\A01\triangles.cpp(23,24): error C2086: 'int i': nueva definición
+C:\Users\ainoa\OneDrive - UPV\UPV\3\Polimi\Computer graphics\Assignments\A01\A01\triangles.cpp(23): message : vea la declaración de 'i'
+C:\Users\ainoa\OneDrive - UPV\UPV\3\Polimi\Computer graphics\Assignments\A01\A01\triangles.cpp(23,27): error C2059: error de sintaxis: ')'
+C:\Users\ainoa\OneDrive - UPV\UPV\3\Polimi\Computer graphics\Assignments\A01\A01\triangles.cpp(23,29): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\ainoa\OneDrive - UPV\UPV\3\Polimi\Computer graphics\Assignments\A01\A01\triangles.cpp(23,29): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
